@@ -11,14 +11,14 @@ Tech Stack
 | Spring boot |    
 
 To develop this simple solution, I have created a little database    
-============
+------------
 
 E-R Diagram:    
 ============
 ![Alt text](/mdResources/MER.png?raw=true "E-R Diagram")    
 
 Although we can work with all the entities in our code, I decided to create a view to make the development process a little bit quicker.   
-============ 
+------------
 
 Prices_View:    
 ============
@@ -48,7 +48,7 @@ URL Example:
 http://localhost:8181/api/v1/prices?date=2020-06-16-21.00.00&product=35455&brand=1    
 
 As a successful response you will get a json body like that:   
-============
+------------
 ```json
 {
     "priceList": 4,
@@ -66,7 +66,7 @@ Code 404 when a Price is not found.
 Code 400 when you send a bad request.   
 
 Note: You can find some tests to the endpoint in different cases, in the Test Class Package. 
-============  
+------------ 
 
 
 
