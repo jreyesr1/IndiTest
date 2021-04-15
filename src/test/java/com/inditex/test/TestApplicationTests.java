@@ -45,8 +45,7 @@ class TestApplicationTests {
                 "brandId": 1,
                 "startDate": "2020-06-14 00:00:00",
                 "endDate": "2020-12-31 23:59:59",
-                "productId": 35455,
-                "priority": 0,
+                "productId": 35455,                
                 "price": 35.5,
                 "currency": "EUR"
             }
@@ -71,8 +70,7 @@ class TestApplicationTests {
                 "brandId": 1,
                 "startDate": "2020-06-14 15:00:00",
                 "endDate": "2020-06-14 18:30:00",
-                "productId": 35455,
-                "priority": 1,
+                "productId": 35455,                
                 "price": 25.45,
                 "currency": "EUR"
             }
@@ -97,8 +95,7 @@ class TestApplicationTests {
                "brandId": 1,
                "startDate": "2020-06-14 00:00:00",
                "endDate": "2020-12-31 23:59:59",
-               "productId": 35455,
-               "priority": 0,
+               "productId": 35455,               
                "price": 35.5,
                "currency": "EUR"
            }
@@ -123,8 +120,7 @@ class TestApplicationTests {
                "brandId": 1,
                "startDate": "2020-06-15 00:00:00",
                "endDate": "2020-06-15 11:00:00",
-               "productId": 35455,
-               "priority": 1,
+               "productId": 35455,               
                "price": 30.5,
                "currency": "EUR"
            }
@@ -149,8 +145,7 @@ class TestApplicationTests {
                "brandId": 1,
                "startDate": "2020-06-15 16:00:00",
                "endDate": "2020-12-31 23:59:59",
-               "productId": 35455,
-               "priority": 1,
+               "productId": 35455,               
                "price": 38.95,
                "currency": "EUR"
            }
