@@ -6,6 +6,7 @@
 package com.inditex.test.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.io.Serializable;
 import java.time.LocalDateTime; 
 import javax.persistence.Column;
@@ -47,6 +48,7 @@ public class PricesView implements Serializable {
     private Long productId;
 
     @Column(name = "PRIORITY")
+    @JsonIgnore
     private int priority;
 
     @Column(name = "PRICE")

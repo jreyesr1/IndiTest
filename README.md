@@ -58,7 +58,6 @@ As a successful response you will get a json body like that:
     "startDate": "2020-06-15 16:00:00",
     "endDate": "2020-12-31 23:59:59",
     "productId": 35455,
-    "priority": 1,
     "price": 38.95,
     "currency": "EUR"
 }
