@@ -20,6 +20,8 @@ E-R Diagram:
 Although we can work with all the entities in our code, I decided to create a view to make the development process a little bit quicker.   
 ------------
 
+You can check the DB Schema in https://github.com/jreyesr1/IndiTest/blob/48cec7003704393638d8e3c53f61546406d62543/src/main/resources/schema.sql    
+
 Prices_View:    
 ============
 ![Alt text](/mdResources/View.png?raw=true "Prices_View")    
